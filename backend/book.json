@@ -1,0 +1,26 @@
+{
+    "listBook": [
+        {
+            "title": "Thanh Gươm Diệt Quỷ",
+            "author": "GOTOUGE Koyoharu",
+            "describe": "Tanjiro là con cả trong một gia đình không còn người cha. Một hôm, Tanjiro đi bán than. Khi Tanjiro đi về nhà vào ngày hôm sau, bi kịch đang chờ đón cậu.",
+            "picture": {
+                "picture-1": "https://storage-bravo.cuutruyen.net/file/cuutruyen/uploads/manga/534/cover/processed-0624dd2d44bdb868da0cb67914708c91.jpg",
+                "picture-2": "https://znews-photo.zingcdn.me/w660/Uploaded/piqbzcvo/2021_02_19/Parliamo_Di_Videogiochi.jpg"
+            },
+            "so-chuong": 51,
+            "luot-xem": 10782
+        },
+        {
+            "title": "Solo Leveling",
+            "author": "JANG SUNG-LAK",
+            "describe": "Tanjiro là con cả trong một gia đình không còn người cha. Một hôm, Tanjiro đi bán than. Khi Tanjiro đi về nhà vào ngày hôm sau, bi kịch đang chờ đón cậu.",
+            "picture": {
+                "picture-1": "https://storage-bravo.cuutruyen.net/file/cuutruyen/uploads/manga/534/cover/processed-0624dd2d44bdb868da0cb67914708c91.jpg",
+                "picture-2": "https://znews-photo.zingcdn.me/w660/Uploaded/piqbzcvo/2021_02_19/Parliamo_Di_Videogiochi.jpg"
+            },
+            "so-chuong": 51,
+            "luot-xem": 10782
+        }
+    ]
+}
